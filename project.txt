@@ -1,1 +1,11 @@
 This project is being used to practice Git and GitHub.
+Git concepts practiced:
+
+- Repository initialization
+- Staging
+- Commits
+- Branches
+- Remote repositories
+- Push and pull
+- Pull Requests
+- Merging
